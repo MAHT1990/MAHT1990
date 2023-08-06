@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=1dad71&height=200&section=header&text=Wanna%20Be%20Your%20BackEnd&fontColor=333333&fontSize=50&desc=Hello%20capsule%20render&fontAlignY=60&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=1dad71&height=200&section=header&text=Wanna%20Be%20Your%20BackEnd&fontColor=333333&fontSize=50&desc=Wanna%20Be%20FullStack&fontAlignY=60&descAlignY=80)
 <div align="center"> 
 <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
