@@ -1,13 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=1dad71&height=200&section=header&text=Wanna%20Be%20Your%20BackEnd&fontColor=333333&fontSize=50&desc=Hello%20capsule%20render&fontAlignY=60&descAlignY=80)
 # MAHT1990(Marotik) 🎆![Profile Views](https://komarev.com/ghpvc/?username=MAHT1990)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAHT1990&show_icons=true&theme=gotham)
 
-- 🔭 I’m currently working on ... **LOCAL PRICE** **BE part**
-- 🌱 I’m currently learning ... **EXPRESSJS**, **DATA STRUCTURE**, **CLEAN CODE**
+- 🔭 I’m currently working on **LOCAL PRICE** **BE part**
+- 🌱 I’m currently learning **EXPRESSJS**, **DATA STRUCTURE**, **CLEAN CODE**
 - 👯 I’m looking to collaborate on making interesting open-API projects.
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... 
-- 📫 How to reach me: ... kitoram3@gmail.com
+- 📫 How to reach me: [kitoram3@gmail.com](mailto:kitoram3@gmail.com).
 - ⚡ Fun fact: ... I was HighSchool Teacher
 
 
