@@ -1,4 +1,4 @@
-# MAHT1990(Marotik) 👋
+# MAHT1990(Marotik) 🎆
 ## <a href="https://www.notion.so/marotik" target="_blank"><img src="https://img.shields.io/badge/My%20Notion-black?style=for-the-badge&logo=notion&logoColor=#000000"/></a>
 
 <!--
