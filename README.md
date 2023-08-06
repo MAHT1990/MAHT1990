@@ -1,7 +1,7 @@
 # MAHT1990(Marotik) 🎆
 ## <a href="https://www.notion.so/marotik" target="_blank"><img src="https://img.shields.io/badge/My%20Notion-black?style=for-the-badge&logo=notion&logoColor=#000000"/></a>
 공부내용을 정리한 Notion 페이지입니다.
-## <a href="https://odoq2.com" target="_blank"><img src="https://img.shields.io/badge/One%20Day%20One%20Question-black?style=for-the-badge&logoColor=#3737ff"/></a>
+## <a href="https://odoq2.com" target="_blank"><img src="https://img.shields.io/badge/One%20Day%20One%20Question-blue?style=for-the-badge&logoColor=#3737ff"/></a>
 <!--
 **MAHT1990/MAHT1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
