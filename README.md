@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/any_text-you_like-blue?logo=notion&logoColor=#000000"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/My Notion-#000000?logo=notion&logoColor=#000000"/></a>
 
 <!--
 **MAHT1990/MAHT1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
