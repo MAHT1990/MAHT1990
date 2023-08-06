@@ -1,7 +1,6 @@
 # MAHT1990(Marotik) 🎆
 <div style="text-align:center;">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAHT1990&show_icons=true&theme=gotham)
-  중간정렬.
 </div>
 ## <a href="https://www.notion.so/marotik" target="_blank"><img src="https://img.shields.io/badge/My%20Notion-white?style=for-the-badge&logo=notion&logoColor=black"/></a>
 공부내용을 정리한 Notion 페이지입니다.
