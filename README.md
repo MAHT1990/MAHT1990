@@ -1,5 +1,5 @@
 # MAHT1990(Marotik) 🎆
-## <a href="https://www.notion.so/marotik" target="_blank"><img src="https://img.shields.io/badge/My%20Notion-white?style=for-the-badge&logo=notion&logoColor=#000000"/></a>
+## <a href="https://www.notion.so/marotik" target="_blank"><img src="https://img.shields.io/badge/My%20Notion-white?style=for-the-badge&logo=notion&logoColor=black"/></a>
 공부내용을 정리한 Notion 페이지입니다.
 ## <a href="https://odoq2.com" target="_blank"><img src="https://img.shields.io/badge/One%20Day%20One%20Question-blue?style=for-the-badge"/></a>
 PROJ: OneDayOneQuestion 
