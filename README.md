@@ -1,6 +1,5 @@
 # Hi there 👋
-<a href="https://www.notion.so/marotik" target="_blank"><img src="https://img.shields.io/badge/My%20Notion-black?style=for-the-badge&logo=notion&logoColor=#000000"/></a>
-<a href="https://www.notion.so/marotik" target="_blank"><img src="https://img.shields.io/badge/My%20Notion-black?style=social&logo=notion&logoColor=#000000"/></a>
+## <a href="https://www.notion.so/marotik" target="_blank"><img src="https://img.shields.io/badge/My%20Notion-black?style=for-the-badge&logo=notion&logoColor=#000000"/></a>
 
 <!--
 **MAHT1990/MAHT1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
