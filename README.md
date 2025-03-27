@@ -17,8 +17,8 @@
 
 ![Marotik's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAHT1990&show_icons=true&theme=gotham)
 
-- 🔭 I’m currently working on **LOCAL PRICE** **BE part**
-- 🌱 I’m currently learning **EXPRESSJS**, **DATA STRUCTURE**, **CLEAN CODE**
+- 🔭 I’m currently working on **No Where**
+- 🌱 I’m currently learning **NestJS**, **Linux**, **Network**
 - 👯 I’m looking to collaborate on making interesting open-API projects.
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... 
